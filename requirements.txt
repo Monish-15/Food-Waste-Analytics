@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+pymongo
+bson
+scikit-learn
+cd "D:\BTECH-I\Food Waste Analytics"
+streamlit run app.py
